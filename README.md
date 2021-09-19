@@ -1,31 +1,33 @@
-PROJECT NAME
+Sign Me Up
+
 Project Description
-Here goes your awesome project description!
+"Sign Me Up" is a class registration web applications for both teachers and students.
 
 Technologies Used
-Tech 1 - version 1.0
-Tech 2 - version 2.0
-Tech 3 - version 3.0
+ Java 8
+ Apache Maven
+ Java Servlets
+ Apache Tomcat
+ MongoDB
+ HTML
+ CSS
+ JavaScript
+ Git SCM (hosted on GitHub)
+ AWS CodePipeline
+ AWS CodeBuild
+ AWS Elastic Beanstalk
+ 
+ 
 Features
-List of features ready and TODOs for future development
+-Students can register for a new account and log in with their credentials.
+-Teachers have premade accounts that they can log in with, but they will have different functionalities.
+-Students can use the app to manage their classes; i.e register, drop, etc.
+-Teachers can add new courses, edit their details, or delete them.
 
-Awesome feature 1
-Awesome feature 2
-Awesome feature 3
-To-do list:
+Github links:
+https://github.com/Teldu/Sean-Alfonso-api-p1
+https://github.com/AlfonsoHolmesData/Sean-Alfonso-ui-p1
 
-Wow improvement to be done 1
-Wow improvement to be done 2
-Getting Started
-(include git clone command) (include all environment setup steps)
-
-Be sure to include BOTH Windows and Unix command
-Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-All the code required to get started
-Images of what it should look like
-Usage
-Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
 
 Contributors
-Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+Sean Smith, Alfonso Holmes, Bill Thomas
