@@ -1,34 +1,12 @@
 Sign Me Up
 
-Project Description
+Project Description:
 
 "Sign Me Up" is a class registration web applications for both teachers and students.
 
 Technologies Used:
 
-Java 8
-
-Apache Maven
-
-Java Servlets
-
-Apache Tomcat
-
-MongoDB
-
-HTML
-
-CSS
-
-JavaScript
-
-Git SCM (hosted on GitHub)
-
-AWS CodePipeline
-
-AWS CodeBuild
-
-AWS Elastic Beanstalk
+Java 8, Apache Maven, Java Servlets, Apache Tomcat, MongoDB, HTML, CSS, JavaScript, Git SCM (hosted on GitHub), AWS CodePipeline, AWS CodeBuild, AWS Elastic Beanstalk
  
 Features
 
