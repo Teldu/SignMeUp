@@ -1,11 +1,9 @@
 Sign Me Up
-
 Project Description
 
 "Sign Me Up" is a class registration web applications for both teachers and students.
 
 Technologies Used:
-
 Java 8
 
 Apache Maven
